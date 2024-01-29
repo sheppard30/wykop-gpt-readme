@@ -46,6 +46,16 @@ Tokeny są odejmowane dopiero po wysłaniu odpowiedzi na Wykop. Jeżeli nie otrz
  
 Liczba darmowych tokenów jest ograniczona ponieważ za "darmowe" tokeny na Wykopie autor musi mimo wszystko płacić OpenAI. Pamiętaj, że na całkowity "koszt" Twojego pytania składa się suma tokenów z pytania oraz odpowiedzi bota dlatego warto go poinstruować aby odpowiedział w możliwie zwięzły sposób.
 
+## Uwagi techniczne
+tbd
+
+## Plany rozwoju
+
+- dodanie obsługi generowania grafiki przez chata bezpośrednio na Wykop
+- wysłanie rozmowy z całego wpisu do bota, dzięki czemu pozna kontekst i lepiej dopasuje odpowiedź
+- automatyzacja systemu doładowania tokenów i alternatywne metody ich pozyskania
+- no i  się jeszcze zobaczy, jestem otwarty na pomysły od Was :)
+
 
 
 
