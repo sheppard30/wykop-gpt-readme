@@ -19,24 +19,31 @@ Na samym początku chciałbym zaznaczyć, że jako autor tego narzędzia ponosz�
 
 ## FAQ
 **1.  Ile wynosi limit tokenów w darmowej "próbce"?**
+
 Limit wstępnie ustawiłem na 1000 tokenów. Możliwe, że zostanie skorygowany po pierwszych testach.
 
 **2.  Ile wynosi limit tokenów po wpłacie darowizny?**
+
 To zależy od kwoty ale wstępnie, biorąc pod uwagę koszty, można bezpiecznie założyć że będzie to około 20-30gr za 1000 tokenów. Kwota ta nie będzie stała i możliwe, że stali darczyńcy będą mieli korzystniejsze warunki.
 
 **3.  Ile to jest 1000 tokenów? Dużo, Mao?**
+
 Możesz wejść na stronę https://platform.openai.com/tokenizer i sprawdzić sam wpisując jakieś zdanie w polu tekstowym. Pamiętaj, że ilość tokenów pobranych z Twojego konta to tokeny składające się na sumę tokenów pytania oraz odpowiedzi bota. 
 
 **4.  Ile będę czekał(a) na doładowanie?**
+
 Na początku nie będzie to proces zautomatyzowany, więc będę robił to w swoim wolnym czasie, możliwie szybko. W zależności od tego oraz zainteresowania, może to być do max kilku dni od czasu pojawienia się darowizny w systemie BuyCoffee. Po doładowaniu konta dostaniesz PW na Wykopie z informacją o ilości przyznanych dodatkowych tokenów. 
 
 **5. Co jeżeli z jakiegoś powodu bot nie odpowie na moje pytanie? Czy tokeny znikną?**
+
 Tokeny są odejmowane dopiero po wysłaniu odpowiedzi na Wykop. Jeżeli nie otrzymałeś odpowiedzi, nie zostały pobrane dla Twojego konta.
 
  **6. Dostałem informację, że moje pytanie zawiera potencjalnie niedozwolone treści. Co to oznacza?**
+ 
  Twoje pytanie zostało zakwalifikowane przez AI jako potencjalnie naruszające regulamin Wykopu oraz OpenAI i nie zostało przesłane do ChataGPT. W takim przypadku Twoje tokeny nie zostaną pobrane ale powtarzania się tej sytuacji, może skończyć się na zablokowaniu dostępu usługi dla Twojego konta. 
 
  **7. Wysłałem raptem kilka pytań i już nie mam darmowych tokenów?**
+ 
 Liczba darmowych tokenów jest ograniczona ponieważ za "darmowe" tokeny na Wykopie autor musi mimo wszystko płacić OpenAI. Pamiętaj, że na całkowity "koszt" Twojego pytania składa się suma tokenów z pytania oraz odpowiedzi bota dlatego warto go poinstruować aby odpowiedział w możliwie zwięzły sposób.
 
 
