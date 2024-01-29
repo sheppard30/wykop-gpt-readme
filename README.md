@@ -54,7 +54,7 @@ Liczba darmowych tokenów jest bardzo ograniczona ponieważ za "darmowe" tokeny 
 
 ### Limity API
 
-Każde z API, z których korzysta bot posiada swoje limity przyjmowanych requestów w jednostce czasu, np. wykopie zależy to od [rodzaju konta](https://wykop.pl/faq/konto#limity-na-koncie). Z tego powodu może się zdarzyć, że poprawne zapytanie nie zostanie przetworzone. W miarę możliwości, bot będzie zwracał informacje o problemie bądź próbował ponowić operację, jednak w przypadku odbicia się od wyżej wspomnianego limitu komentarzy na Wykopie, może się zdarzyć, że bot nie odpowie na pytanie użytkownika. Tokeny w takim wypadku nie zostaną pobrane z konta a odpowiedź pojawi się z opóźnieniem.
+Każde z API, z których korzysta bot posiada swoje limity przyjmowanych requestów w jednostce czasu, np. wykopie zależy to od [rodzaju konta](https://wykop.pl/faq/konto#limity-na-koncie). Z tego powodu może się zdarzyć, że poprawne zapytanie nie zostanie przetworzone. W miarę możliwości, bot będzie zwracał informacje o problemie bądź próbował ponowić operację, jednak w przypadku odbicia się od wyżej wspomnianego limitu komentarzy na Wykopie, może się zdarzyć, że bot nie odpowie na pytanie użytkownika. Tokeny w takim wypadku nie zostaną pobrane z konta a odpowiedź pojawi się z opóźnieniem lub w ogóle.
 
 
 ## Plany rozwoju
