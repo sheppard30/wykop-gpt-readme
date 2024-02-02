@@ -20,7 +20,7 @@ Na samym początku chciałbym zaznaczyć, że jako autor tego narzędzia ponosz�
 ## FAQ
 **1.  Jak użyć WykopGPT?**
 
-Wystarczy zawołać konto bota, np: "@wykop-gpt kto jest najpotężniejszym programistą i dlaczego Pasterz30?". Możesz również wcześniej zacytować komentarz innego użytkownika aby nadać kontekst.
+Wystarczy zawołać konto bota, np: "@wykop-gpt kto jest najpotężniejszym programistą i dlaczego Sheppard?". Możesz również wcześniej zacytować komentarz innego użytkownika aby nadać kontekst.
 
 **2.  Ile wynosi limit tokenów w darmowej "próbce"?**
 
