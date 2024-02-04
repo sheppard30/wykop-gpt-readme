@@ -8,7 +8,7 @@
 
 
 ## Wstęp
-Wykop-gpt został stworzony aby służyć użytkownikom Wykopu i pozwolić im na korzystanie z narzędzia ChatGPT bez konieczności rejestracji na OpenAI i opłacania miesięcznej subskrypcji (za wersję gpt-4), która w momencie pisania tego tekstu wynosi aż **20 USD**. Każdy użytkownik ma do dyspozycji **1000** darmowych tokenów do wykorzystania w ramach zapytań do ChatGPT w wersji 3.5. 
+Wykop-gpt został stworzony aby służyć użytkownikom Wykopu i pozwolić im na korzystanie z narzędzia ChatGPT bez konieczności rejestracji na OpenAI i opłacania miesięcznej subskrypcji (za wersję gpt-4), która w momencie pisania tego tekstu wynosi aż **20 USD**. Każdy użytkownik ma do dyspozycji **1500** darmowych tokenów do wykorzystania w ramach zapytań do ChatGPT w wersji 3.5. 
 
 ## Jak pozyskać tokeny? 
 Na samym początku chciałbym zaznaczyć, że jako autor tego narzędzia ponoszę szereg kosztów wynikających z udostępnienia tej funkcjonalności, m.in. koszty zapytań do OpenAI czy serwera, nie wspominając już o poświęconym prywatnym czasie na jej tworzeniu. Moim pomysłem jest finansowanie działania narzędzia jedynie z dobrowolnych wpłat użytkowników Wykopu i innych darczyńców, dlatego przyszłość bota i dalszy jego rozwój są uzależnione od tego czy/ile do tego projektu będę musiał dokładać z własnej kieszeni :)  
@@ -24,13 +24,13 @@ Wystarczy zawołać konto bota, np: "@wykop-gpt kto jest najpotężniejszym prog
 
 **2.  Ile wynosi limit tokenów w darmowej "próbce"?**
 
-Limit wstępnie ustawiłem na 1000 tokenów. Możliwe, że zostanie skorygowany po pierwszych testach.
+Limit wstępnie ustawiłem na 1500 tokenów. Możliwe, że zostanie skorygowany po pierwszych testach.
 
 **3.  Ile wynosi doładowanie tokenów po wpłacie darowizny?**
 
 To zależy od kwoty ale wstępnie, biorąc pod uwagę koszty, można bezpiecznie założyć że będzie to około 20-30gr za 1000 tokenów. Wielce prawdopodobne, że kwota ta będzie ruchoma, natomiast chciałbym aby stali darczyńcy mieli korzystniejsze warunki.
 
-**4.  Ile to jest 1000 tokenów? Dużo, Mao?**
+**4.  Ile to jest 1500 tokenów? Dużo, Mao?**
 
 Możesz wejść na stronę https://platform.openai.com/tokenizer i sprawdzić sam wpisując jakieś zdanie w polu tekstowym. Pamiętaj, że ilość tokenów pobranych z Twojego konta to tokeny składające się na sumę pytania oraz odpowiedzi bota. 
 
