@@ -44,11 +44,15 @@ Tokeny są odejmowane dopiero po wysłaniu odpowiedzi na Wykop. Jeżeli nie otrz
 
  **7. Dostałem informację, że moje pytanie zawiera potencjalnie niedozwolone treści. Co to oznacza?**
  
- Twoje pytanie zostało zakwalifikowane przez AI jako potencjalnie naruszające regulamin Wykopu oraz OpenAI i nie zostało przesłane do ChataGPT. W takim przypadku Twoje tokeny nie zostaną pobrane ale powtarzanie się takich sytuacji, może skończyć się zablokowaniem dostępu do usługi dla Twojego konta. 
+ Twoje pytanie zostało zakwalifikowane przez AI jako potencjalnie naruszające regulamin Wykopu oraz OpenAI i nie zostało przesłane do ChataGPT. W takim przypadku Twoje tokeny zostaną pobrane a powtarzanie się takich sytuacji, może skończyć się zablokowaniem dostępu do usługi dla Twojego konta. 
 
  **8. Wysłałem raptem kilka pytań i już nie mam darmowych tokenów?**
  
 Liczba darmowych tokenów jest bardzo ograniczona ponieważ za "darmowe" tokeny na Wykopie autor musi mimo wszystko płacić OpenAI. Pamiętaj, że na całkowity "koszt" Twojego pytania składa się suma tokenów z pytania oraz odpowiedzi bota dlatego warto go poinstruować aby odpowiedział w możliwie zwięzły sposób.
+
+ **9. Czy bot ogarnia pastę o serwerowni?**
+
+ Nie, tej pasty o której myślicie nie ogarnia, więc szkoda marnować tokeny na zadawanie tego typu pytań. :)
 
 ## Uwagi techniczne
 
@@ -64,6 +68,7 @@ Każde z API, z których korzysta bot posiada swoje limity przyjmowanych request
 - automatyzacja systemu doładowania tokenów i alternatywne metody ich pozyskania
 - no i  się jeszcze zobaczy, jestem otwarty na pomysły od Was :)
 
+Aktualizacja: 05.02.2024, 23:00
 
 
 
