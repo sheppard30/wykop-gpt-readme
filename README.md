@@ -64,7 +64,7 @@ Darmowa wersja GPT-3.5 to "najprostszy" model, znacznie słabszy niż jego uleps
 1. Bądź konkretny, tak aby bot poprawnie zrozumiał o co pytasz i udzielił najbardziej satysfakcjonującej Cię odpowiedzi.
 2. Poproś bota żeby udzielał zwięzłych odpowiedzi aby zmniejszyć zużycie tokenów.
 3. Nie przeklinaj, nie prowokuj, nie wpisuj treści, które mogą być zawaklifikowane jako niedozwolone. Bot odrzuci tego typu pytania natomiast nadal zapłacisz za tokeny, które wysłałeś.
-4. Nie używaj tagów, zdjęć, linków i innych tego typu treści w pytaniach, które bot nie rozumie albo może źle zinterpretować.
+4. Nie używaj tagów, zdjęć, linków i innych tego typu treści w pytaniach, których bot nie rozumie albo może źle zinterpretować.
 5. Nie pytaj o głupoty jak pasta o serwerowni czy opinie o Tigerze Bonzo - odpowiedź bota raczej Cię nie zadowoli.
 
 ## Uwagi techniczne
