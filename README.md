@@ -8,14 +8,14 @@
 
 
 ## Wstęp
-Wykop-gpt został stworzony aby służyć użytkownikom Wykopu i pozwolić im na korzystanie z narzędzia ChatGPT bez konieczności rejestracji na OpenAI i opłacania miesięcznej subskrypcji (za wersję gpt-4), która w momencie pisania tego tekstu wynosi aż **20 USD**. Każdy użytkownik ma do dyspozycji **1500** darmowych tokenów do wykorzystania w ramach zapytań do ChatGPT w wersji 3.5. 
+Wykop-gpt został stworzony aby służyć użytkownikom Wykopu i pozwolić im na korzystanie z narzędzia ChatGPT bez konieczności rejestracji na OpenAI i opłacania miesięcznej subskrypcji OpenAI Plus (za wersję gpt-4), która w momencie pisania tego tekstu wynosi aż **20 USD**. Każdy użytkownik ma do dyspozycji **1500** darmowych tokenów do wykorzystania w ramach zapytań do ChatGPT w wersji 3.5. 
 
 ## Jak pozyskać tokeny? 
 Na samym początku chciałbym zaznaczyć, że jako autor tego narzędzia ponoszę szereg kosztów wynikających z udostępnienia tej funkcjonalności, m.in. koszty zapytań do OpenAI czy serwera, nie wspominając już o poświęconym prywatnym czasie na jej tworzeniu. Moim pomysłem jest finansowanie działania narzędzia jedynie z dobrowolnych wpłat użytkowników Wykopu i innych darczyńców, dlatego przyszłość bota i dalszy jego rozwój są uzależnione od tego czy/ile do tego projektu będę musiał dokładać z własnej kieszeni :)  
 
 **Aby uzyskać kolejne tokeny**, wspomóż projekt, [kliknij i postaw mi wirtualną kawę w serwisie BuyCoffee](https://buycoffee.to/sheppard30) . W ramach wdzięczności, jeśli sobie zażyczysz, otrzymasz dodatkowe tokeny, dostęp do najnowszych feature'ów oraz **ChataGPT w wersji 4 Turbo**.  ( ͡° ͜ʖ ͡°) Pamiętaj, jeżeli chcesz otrzymać tokeny, **w formularzu na stronie BuyCoffee zaznacz opcję *Chcę pozostawić wiadomość dla Twórcy* i w polu, które się pojawi wpisz swój nick z Wykopu**, tak abym wiedział komu odblokować dostęp do najnowszych funkcjonalności i doładować konto.
 
-**Pamiętaj!** Twoje wsparcie nie jest płatnością za usługę a dobrowolną darowizną. Nie ma żadnego oficjalnego przelicznika co do ilości tokenów / PLN natomiast chcę abyś pamiętał(a), że celem projektu **nie** jest zarabianie na nim a to aby, dzięki pieniądzom z darowizn móc **sfinansować działanie bota** oraz dać Wam możliwość wygodnego **korzystania z GPT-4 zintegrowanego z Wykopem** na korzystnych dla Was warunkach.
+**Pamiętaj!** Twoje wsparcie nie jest płatnością za usługę a dobrowolną darowizną. Nie ma żadnego oficjalnego przelicznika co do ilości tokenów / PLN natomiast chcę abyś pamiętał(a), że celem projektu **nie** jest zarabianie na nim a to aby, dzięki pieniądzom z darowizn móc **sfinansować działanie bota** oraz dać Wam możliwość wygodnego **korzystania z GPT-4 Turbo (ulepszona wersja GPT4, niedostępna w OpenAI Plus) zintegrowanego z Wykopem** na korzystnych dla Was warunkach.
 
 ## FAQ
 **1.  Jak użyć WykopGPT?**
@@ -53,6 +53,10 @@ Liczba darmowych tokenów jest bardzo ograniczona ponieważ za "darmowe" tokeny 
  **9. Czy bot ogarnia pastę o serwerowni?**
 
  Nie, tej pasty o której myślicie nie ogarnia, więc szkoda marnować tokeny na zadawanie tego typu pytań. :)
+
+**10. Jaka jest różnica między modelami?**
+
+Darmowa wersja GPT-3.5 to "najprostszy" model, znacznie słabszy niż jego ulepszone wersje GPT-4 oraz najlepszy - GPT-4 Turbo. Zwykły GPT-4 jest dostępny w płatnej subskrypcji OpenAI Plus za 20$ miesięcznie natomiast GPT-4 Turbo (który udostępniam wspierającym) jest dostępny tylko dla deweloperów.
 
 ## Uwagi techniczne
 
