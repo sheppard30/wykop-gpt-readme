@@ -3,8 +3,9 @@
 1. [Wstęp](#wstep)
 2. [Jak pozyskać tokeny?](#jak-pozyskać-tokeny?)
 3. [FAQ](#faq)
-4. [Uwagi techniczne](#uwagi-techniczne)
-5. [Plany rozwoju](#plany-rozwoju)
+4. [Porady od autora](#porady-od-autora)
+5. [Uwagi techniczne](#uwagi-techniczne)
+6. [Plany rozwoju](#plany-rozwoju)
 
 
 ## Wstęp
@@ -57,6 +58,14 @@ Liczba darmowych tokenów jest bardzo ograniczona ponieważ za "darmowe" tokeny 
 **10. Jaka jest różnica między modelami?**
 
 Darmowa wersja GPT-3.5 to "najprostszy" model, znacznie słabszy niż jego ulepszone wersje GPT-4 oraz najlepszy - GPT-4 Turbo. Zwykły GPT-4 jest dostępny w płatnej subskrypcji OpenAI Plus za 20$ miesięcznie natomiast GPT-4 Turbo (który udostępniam wspierającym) jest dostępny tylko dla użytku deweloperskiego.
+
+## Porady od autora
+
+1. Bądź konkretny, tak aby bot poprawnie zrozumiał o co pytasz i udzielił najbardziej satysfakcjonującej Cię odpowiedzi.
+2. Poproś bota żeby udzielał zwięzłych odpowiedzi aby zmniejszyć zużycie tokenów.
+3. Nie przeklinaj, nie prowokuj, nie wpisuj treści, które mogą być zawaklifikowane jako niedozwolone. Bot odrzuci tego typu pytania natomiast nadal zapłacisz za tokeny, które wysłałeś.
+4. Nie używaj tagów, zdjęć, linków i innych tego typu treści w pytaniach, które bot nie rozumie albo może źle zinterpretować.
+5. Nie pytaj o głupoty jak pasta o serwerowni czy opinie o Tigerze Bonzo - odpowiedź bota raczej Cię nie zadowoli.
 
 ## Uwagi techniczne
 
