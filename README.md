@@ -56,7 +56,7 @@ Liczba darmowych tokenów jest bardzo ograniczona ponieważ za "darmowe" tokeny 
 
 **10. Jaka jest różnica między modelami?**
 
-Darmowa wersja GPT-3.5 to "najprostszy" model, znacznie słabszy niż jego ulepszone wersje GPT-4 oraz najlepszy - GPT-4 Turbo. Zwykły GPT-4 jest dostępny w płatnej subskrypcji OpenAI Plus za 20$ miesięcznie natomiast GPT-4 Turbo (który udostępniam wspierającym) jest dostępny tylko dla deweloperów.
+Darmowa wersja GPT-3.5 to "najprostszy" model, znacznie słabszy niż jego ulepszone wersje GPT-4 oraz najlepszy - GPT-4 Turbo. Zwykły GPT-4 jest dostępny w płatnej subskrypcji OpenAI Plus za 20$ miesięcznie natomiast GPT-4 Turbo (który udostępniam wspierającym) jest dostępny tylko dla użytku deweloperskiego.
 
 ## Uwagi techniczne
 
