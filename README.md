@@ -28,7 +28,7 @@ Wykop-gpt został stworzony aby służyć użytkownikom Wykopu i pozwolić im na
 - jest szybszy i stabilniejszy
 2. Otrzymasz ekwiwalent Twojego datku w tokenach do wykorzystania.
 3. Dodatkowo w przyszłości bot:
-- będzie rozumiał kontekst całego wątku, generować obrazy, które opiszesz oraz interpretować te które prześlesz na Wykopie
+- będzie rozumiał kontekst całego wątku, generować obrazy zgodnie z Twoim opisem oraz interpretować te które prześlesz na Wykopie
 - otrzymasz dostęp do własnego panelu użytkownika, w którym będziesz mógł sterować podstawowymi parametrami swojego bota, tak aby jak najlepiej zarządzać tokenami
 4. Przyczynisz się do rozwoju ciekawego projektu, który w przyszłości może stać się naprawdę użyteczny :)
 
