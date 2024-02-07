@@ -1,7 +1,7 @@
 
 # Spis treści
 1. [Wstęp](#wstep)
-2. [Wsparcie](#wsparcie)
+2. [Wsparcie projektu](#wsparcie-projektu)
 3. [Dlaczego warto?](#dlaczego-warto-wspomoc-projekt)
 4. [FAQ](#faq)
 5. [Porady od autora](#porady-od-autora)
