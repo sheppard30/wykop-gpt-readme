@@ -2,7 +2,7 @@
 # Spis treści
 1. [Wstęp](#wstep)
 2. [Wsparcie](#wsparcie)
-3. [Dlaczego warto?](#dlaczego-warto?)
+3. [Dlaczego warto?](#dlaczego-warto-wspomoc-projekt)
 4. [FAQ](#faq)
 5. [Porady od autora](#porady-od-autora)
 6. [Uwagi techniczne](#uwagi-techniczne)
@@ -20,7 +20,7 @@ Wykop-gpt został stworzony aby służyć użytkownikom Wykopu i pozwolić im na
 **Pamiętaj!** Twoje wsparcie nie jest płatnością za usługę a dobrowolną darowizną. Nie ma żadnego oficjalnego przelicznika co do ilości tokenów / PLN natomiast chcę abyś pamiętał(a), że celem projektu **nie** jest zarabianie na nim a to aby, dzięki pieniądzom z darowizn móc **sfinansować działanie bota** oraz dać Wam możliwość wygodnego **korzystania z GPT-4 Turbo zintegrowanego z Wykopem** na korzystnych dla Was warunkach.
 
 
-## Dlaczego warto?
+## Dlaczego warto wspomóc projekt?
 
 1. Model, do którego otrzymasz dostęp (o ile zechcesz) po wpłaceniu darowizny - **GPT 4 Turbo** jest znacznie lepszy od "darmowej" wersji 3.5:
 - jego baza danych informacji jest niemal współczesna i stale aktualizowana w kolejnych releasach
